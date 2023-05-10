@@ -13,12 +13,12 @@ Citi bike changed the table layout on 2021 February, this analysis is start to 2
 
 ## Citi Bike Analysis
 
-#### Welcome to the New Jersey Citibike analysis from February 2021 to February 2023.
-In the following pages, we have provided various data analyses that Citibike can use to support its business and Key Performance Indicator (KPI) reports. Our goal is to provide you with insights into the performance of Citibike in the New Jersey area, including popular stations, usage patterns, and seasonal trends.
+#### Welcome to the New Jersey Citi Bike analysis from February 2021 to February 2023.
+In the following pages, we have provided various data analyses that Citi Bike can use to support its business and Key Performance Indicator (KPI) reports. Our goal is to provide you with insights into the performance of Citi Bike in the New Jersey area, including popular stations, usage patterns, and seasonal trends.
 
-Our team has analyzed the data to help Citibike understand customer preferences and behavior, as well as areas for improvement and growth opportunities. We hope that this analysis will help Citibike make informed decisions and achieve its business goals.
+Our team has analyzed the data to help Citi Bike understand customer preferences and behavior, as well as areas for improvement and growth opportunities. We hope that this analysis will help Citi Bike make informed decisions and achieve its business goals.
 
-Thank you for considering our analysis, and we look forward to working with Citibike to support its continued success.
+Thank you for considering our analysis, and we look forward to working with Citi Bike to support its continued success.
 
 #### Customer Traffic Analysis
 Charts 1 and 2 demonstrate that from May to November, both Saturday and Sunday are peak business days. The short-term casual and long-term member categories have the same seasonal trend of increasing during spring and summer and decreasing during autumn and winter.
@@ -28,25 +28,25 @@ In Chart 2, we observe that members tend to use the service on Monday to Friday 
 Furthermore, by selecting the classic_bike and electric_bike options in Chart 2, it can be seen that classic_bike rentals are more popular than electric_bike rentals. However, the difference in the number of rentals between classic_bike and electric_bike for "casual" users is not significant.
 
 #### Seasonal Membership and Popularity Analysis
-Based on the charts provided, it can be seen that New York citizens, tourists, and other users prefer using the Citibike service to get to their destinations, particularly through bike riding. The number of both members and casual users tends to increase in Quarter 2, with Quarter 3 being the most favored season for customer usage of the Citibike service.
+Based on the charts provided, it can be seen that New York citizens, tourists, and other users prefer using the Citi Bike service to get to their destinations, particularly through bike riding. The number of both members and casual users tends to increase in Quarter 2, with Quarter 3 being the most favored season for customer usage of the Citi Bike service.
 
-The line graph illustrates that Citibike's business percentage and numbers have been growing every year. Moreover, the "Riders Growth" model for 2021 Q1 to 2023 Q1 indicates a P-Value of 0.0526527. This value suggests that customers enjoy using bike riding as a means of transportation.
+The line graph illustrates that Citi Bike business percentage and numbers have been growing every year. Moreover, the "Riders Growth" model for 2021 Q1 to 2023 Q1 indicates a P-Value of 0.0526527. This value suggests that customers enjoy using bike riding as a means of transportation.
 
 To improve member outreach efforts, we have added a data layer showing separate orange and cyan colors. This analysis can be examined in detail to adjust campaign strategies and Key Performance Indicator (KPI) reports if necessary.
 
 #### Member and Casual Station Usage Analysis
-The dataset provides insights into the most popular Citibike stations in the New Jersey area, specifically in zip codes 07302, 07310, 07030, and 07306. The map utilizes small and large circles to analyze the popularity of Citibike stations among both members and casual users, with the data showing a large number of 56,414 instances of station usage.
+The dataset provides insights into the most popular Citi Bike stations in the New Jersey area, specifically in zip codes 07302, 07310, 07030, and 07306. The map utilizes small and large circles to analyze the popularity of Citibike stations among both members and casual users, with the data showing a large number of 56,414 instances of station usage.
 
-The map analysis reveals that members, denoted by orange circles, tend to use stations in the 07302 zip code area most frequently for Citibike service. On the other hand, casual users, represented by cyan circles, prefer stations in the 07030 zip code area. This data can help Citibike understand the differing usage habits between members and casual users and pinpoint where additional support services may be required in these areas.
+The map analysis reveals that members, denoted by orange circles, tend to use stations in the 07302 zip code area most frequently for Citi Bike service. On the other hand, casual users, represented by cyan circles, prefer stations in the 07030 zip code area. This data can help Citi Bike understand the differing usage habits between members and casual users and pinpoint where additional support services may be required in these areas.
 
 #### Business Development and Service Maintenance Ideas
-Based on our analysis, we have identified the top 10 most frequently used Citibike stations in the New Jersey area. By understanding which stations are the most popular, Citibike can develop strategies to improve the bike rental volume and customer experience.
+Based on our analysis, we have identified the top 10 most frequently used Citi Bike stations in the New Jersey area. By understanding which stations are the most popular, Citi Bike can develop strategies to improve the bike rental volume and customer experience.
 
-Analyzing the top 10 start station usage numbers, Citibike can identify which types of bikes are preferred by users and which parts need to be prioritized for maintenance. This analysis can also help the company to focus its resources on specific locations that require more support.
+Analyzing the top 10 start station usage numbers, Citi Bike can identify which types of bikes are preferred by users and which parts need to be prioritized for maintenance. This analysis can also help the company to focus its resources on specific locations that require more support.
 
-In particular, the South Waterfront Walkway - Sinatra Dr & 1 St station is the most popular start and return station among users. By focusing on this station, Citibike can further enhance its service offerings and improve the customer experience.
+In particular, the South Waterfront Walkway - Sinatra Dr & 1 St station is the most popular start and return station among users. By focusing on this station, Citi Bike can further enhance its service offerings and improve the customer experience.
 
-We believe that these insights can help Citibike make informed decisions about its business development and service maintenance strategies, and we look forward to supporting the company in achieving its goals.
+We believe that these insights can help Citi Bike make informed decisions about its business development and service maintenance strategies, and we look forward to supporting the company in achieving its goals.
 <br>
 ### ETL
 ![Screen Shot 2023-05-10 at 12 09 58 AM](https://github.com/wangavin/Tableau_Challenge/assets/119981450/f9e92013-3834-46bc-9b5d-747d8ab67ce3)
