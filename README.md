@@ -28,7 +28,7 @@ In Chart 2, we observe that members tend to use the service on Monday to Friday 
 Furthermore, by selecting the classic_bike and electric_bike options in Chart 2, it can be seen that classic_bike rentals are more popular than electric_bike rentals. However, the difference in the number of rentals between classic_bike and electric_bike for "casual" users is not significant.
 
 #### Seasonal Membership and Popularity Analysis
-Based on the charts provided, it can be seen that New York citizens, tourists, and other users prefer using the Citi Bike service to get to their destinations, particularly through bike riding. The number of both members and casual users tends to increase in Quarter 2, with Quarter 3 being the most favored season for customer usage of the Citi Bike service.
+Based on the charts provided, it can be seen that New Jersey citizens, tourists, and other users prefer using the Citi Bike service to get to their destinations, particularly through bike riding. The number of both members and casual users tends to increase in Quarter 2, with Quarter 3 being the most favored season for customer usage of the Citi Bike service.
 
 The line graph illustrates that Citi Bike business percentage and numbers have been growing every year. Moreover, the "Riders Growth" model for 2021 Q1 to 2023 Q1 indicates a P-Value of 0.0526527. This value suggests that customers enjoy using bike riding as a means of transportation.
 
