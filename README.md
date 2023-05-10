@@ -8,8 +8,7 @@ Citi bike changed the table layout on 2021 Ferruary, This analysisis start to 20
 - Understand the data and orgizie what data can provide information and content.
 - Think about what kind of chart can help analysis in New Jesrey City.
 - Define and provide idea for customer from data what can i find the result.
-- Design 2 different versions in Tableau. First file is like below screen for work and 2nd file is for presentation.  This link can see all analysis result in Tableau [2021 Feb to 2023 Feb Citibike Analysis](https://public.tableau.com/app/profile/ricardo.mora5613/viz/CitiBikeAnalytics_16433147918130/CitiBikeStory) 
-
+- Design 2 different versions in Tableau. First file is like below screen for work and 2nd file is for presentation.  This link can see all analysis result in Tableau [2021 Feb to 2023 Feb Citibike Analysis](https://public.tableau.com/views/MyFirstViz_Tableau-Challenge_GW/Story1?:language=en-US&:display_count=n&:origin=viz_share_link) 
 
 ## Citi Bike Analysis
 
