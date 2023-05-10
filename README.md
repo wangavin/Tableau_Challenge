@@ -1,14 +1,15 @@
 # 2021 Feb to 2023 Feb Citi Bike Analysis in Tableau
 
 This project utilized Tableau to analyze and discover phenomena contained within data from New Jersey City's Citi Bike program. The data is publicly available in the form of large CSV files. 
-Citi bike changed the table layout on 2021 Ferruary, This analysisis start to 2021 Feb to 2023 Feb.  The data files often contained more thousands of rows, I use Pandas to ETL and make combine date from Pandas. Combined file is call "2021FebTo2023Feb_citibike.csv". You can download from here [2021FebTo2023Feb_citibike.csv](https://drive.google.com/file/d/1HcYfcdiafiV2iHEYtsLG8MlpYSCN21N1/view?usp=share_link).  In my Tableau_Challenge github it contain Tableau file, ETL file and PDF to see all my Citi bike New Jersey analysis.
+Citi bike changed the table layout on 2021 February, this analysis is start to 2021 Feb to 2023 Feb.  The data files often contained more thousands of rows, I use Pandas to ETL and make combine date from Pandas. Combined file is call "2021FebTo2023Feb_citibike.csv". You can download from here [2021FebTo2023Feb_citibike.csv](https://drive.google.com/file/d/1HcYfcdiafiV2iHEYtsLG8MlpYSCN21N1/view?usp=share_link).  In my Tableau_Challenge github it contains Tableau file, ETL file and PDF to see all my Citi bike New Jersey analysis.
 
-**Below is my step to Orgizies data and idea create analysis in Tableau**
+**Below is my step to organizes data and idea create analysis in Tableau**
+
 - ETL customer provide True Data CSV files.
-- Understand the data and orgizie what data can provide information and content.
-- Think about what kind of chart can help analysis in New Jesrey City.
-- Define and provide idea for customer from data what can i find the result.
-- Design 2 different versions in Tableau. First file is like below screen for work and 2nd file is for presentation.  This link can see all analysis result in Tableau [2021 Feb to 2023 Feb Citibike Analysis](https://public.tableau.com/views/MyFirstViz_Tableau-Challenge_GW/Story1?:language=en-US&:display_count=n&:origin=viz_share_link) 
+- Understand the data and organizes what data can provide information and content.
+- Think about what kind of chart can help analysis in New Jersey City.
+- Define and provide idea for customer from data what can I find the result.
+- Design 2 different versions in Tableau. First file is like below screen for work and 2nd file is for presentation.  This link can see all analysis result in Tableau [2021 Feb to 2023 Feb Citi Bike Analysis](https://public.tableau.com/views/MyFirstViz_Tableau-Challenge_GW/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Citi Bike Analysis
 
