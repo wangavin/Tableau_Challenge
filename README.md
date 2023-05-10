@@ -1,7 +1,7 @@
 # 2021 Feb to 2023 Feb Citi Bike Analysis in Tableau
 
 This project utilized Tableau to analyze and discover phenomena contained within data from New Jersey City's Citi Bike program. The data is publicly available in the form of large CSV files. 
-Citi bike changed the table layout on 2021 February, this analysis is start to 2021 Feb to 2023 Feb.  The data files often contained more thousands of rows, I use Pandas to ETL and make combine date from Pandas. Combined file is call "2021FebTo2023Feb_citibike.csv". You can download from here [2021FebTo2023Feb_citibike.csv](https://drive.google.com/file/d/1HcYfcdiafiV2iHEYtsLG8MlpYSCN21N1/view?usp=share_link).  In my Tableau_Challenge github it contains Tableau file, ETL file and PDF to see all my Citi Bike New Jersey analysis.
+Citi bike changed the table layout on 2021 February, this analysis is start to 2021 Feb to 2023 Feb.  The data files often contained more thousands of rows, I use Pandas to ETL and make combine date from Pandas. Combined file is call "2021FebTo2023Feb_citibike.csv". You can download from here [2021FebTo2023Feb_citibike.csv](https://drive.google.com/drive/folders/1HYc6cEgFsTwmVwXqtKksOhF9_I3iEzks?usp=share_link).  In my Tableau_Challenge github it contains Tableau file, ETL file and PDF to see all my Citi Bike New Jersey analysis.
 
 **Below is my step to organizes data and idea create analysis in Tableau**
 
